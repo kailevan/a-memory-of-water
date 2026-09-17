@@ -1,0 +1,4 @@
+Environment models, sand textures and spiaggia_di_mondello HDRI: Poly Haven, CC0.
+three.js and its included Draco/Basis runtime decoders: see upstream licences.
+Water study implementation uses three.js WaterMesh and original small sine displacements.
+The Spiri0 and WaterThreeJS repositories are research references only, not included in this runtime; their MIT licences are retained in reference/water/.
